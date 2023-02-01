@@ -27,11 +27,11 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascserrate&theme=github_dark&card_width=450em&hide_border=true"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascserrate&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascserrate&theme=github_dark&card_width=450em&hide_border=true"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascserrate&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&hide_stars=false" /></td>
   </tr>
 </table>
 <div align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascserrate&theme=transparent" alt="lucascserrate" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucascserrate&theme=transparent" alt="Lucascserrate" />
 </div>
 <br>
