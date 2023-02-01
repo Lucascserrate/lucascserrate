@@ -1,10 +1,10 @@
-## Hola! 👋
+# Hola! 👋
 
 <div align='start'>
 Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 </div>
 
-# <div align ='start'> Algunas de mis habilidades: </div>
+## <div align ='start'> Algunas de mis habilidades: </div>
 
 <br />
 <p align='center'>
