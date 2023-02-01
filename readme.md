@@ -13,7 +13,7 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237182-d52b1291-83ba-4b5f-a3ef-e0a26277f8ff.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236790-0faaaeed-e7ca-4d75-80c9-8b6e0aab1fff.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237561-15f189ed-ed0c-4282-a5c8-41e5b07c3f46.svg' />
-  <img width='60px' src='./assets/sass-1.svg' />
+  <img width='60px' src='/assets/sass-1.svg' />
 
 </p>
 <p align='center'>
