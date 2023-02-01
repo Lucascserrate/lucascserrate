@@ -22,3 +22,16 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237377-f550d006-af86-44c7-a3ac-5fdeafd61e90.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237411-06551dea-cd5f-4dd5-9be4-994eeea573bc.svg' />
 </p>
+
+## Github Stats:
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascserrate&theme=github_dark&card_width=450em&hide_border=true"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascserrate&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&hide_stars=false" /></td>
+  </tr>
+</table>
+<div align="center">  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascserrate&theme=transparent" alt="lucascserrate" />
+</div>
+<br>
