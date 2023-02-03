@@ -39,10 +39,10 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 
 ## Contacto:
 <div>
-  <img width='30px' src='./assets/linkedin_logo.png' />
-  <a href='https://www.linkedin.com/in/lucascserrate/'>https://www.linkedin.com/in/lucascserrate/</a>
+  <img width='20px' src='./assets/linkedin_icon.png' />
+  <a align="center" href='https://www.linkedin.com/in/lucascserrate/'>https://www.linkedin.com/in/lucascserrate/</a>
 </div>
-<div display='flex' >
-  <img width='30px' src='./assets/gmail_logo.png' />
-  <p>lucascserrate@gmail.com</p>
+<div>
+  <img width='20px' src='./assets/gmail_icon.png' />
+  <a>lucascserrate@gmail.com</a>
 </div>
