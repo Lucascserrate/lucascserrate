@@ -7,23 +7,35 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 ## <div align ='start'> Algunas de mis habilidades: </div>
 
 <br />
-<h2>Frontend</h2>
+<h3>Frontend</h3>
+<p>
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
+  <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' />
+  <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' />
+</p>
+<h3>Backend</h3>
+<p>
+  <img width='85px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' />
+
+</p>
+
+<h3>Programming Languages & Tools</h3>
 <p>
   <img width='60px' src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236678-4d3a20e6-4ac7-4e61-a2bd-66c98f576ecf.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237182-d52b1291-83ba-4b5f-a3ef-e0a26277f8ff.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236790-0faaaeed-e7ca-4d75-80c9-8b6e0aab1fff.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237561-15f189ed-ed0c-4282-a5c8-41e5b07c3f46.svg' />
-  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
-</p>
-<h2>Backend</h2>
-<p>
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' />
-  <img width='80px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236647-b3712d46-4a0b-4cf8-b761-d53ca8c26fe2.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237348-35a8cbda-a32b-4a64-a9e0-07e466d0a337.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237377-f550d006-af86-44c7-a3ac-5fdeafd61e90.svg' />
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237411-06551dea-cd5f-4dd5-9be4-994eeea573bc.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
+  <img width='60px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' />
+
+
 </p>
 
 ## Github Stats:
