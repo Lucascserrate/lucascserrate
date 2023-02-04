@@ -50,9 +50,3 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucascserrate&theme=transparent" alt="Lucascserrate" />
 </div>
 <br>
-
-## Contacto:
-<div>
-  <img width='20px' src='./assets/gmail_icon.png' />
-  <a>lucascserrate@gmail.com</a>
-</div>
