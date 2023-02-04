@@ -20,8 +20,8 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 </p>
 <h3>Backend</h3>
 <p>
-  <img width='85px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
-  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' />
+  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' />
