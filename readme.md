@@ -8,15 +8,15 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 
 <br />
 <p align='center'>
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185231737-1ba31713-13f0-48a3-b352-5c2bef06285c.svg' />
+  <img width='60px' src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236678-4d3a20e6-4ac7-4e61-a2bd-66c98f576ecf.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237182-d52b1291-83ba-4b5f-a3ef-e0a26277f8ff.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236790-0faaaeed-e7ca-4d75-80c9-8b6e0aab1fff.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237561-15f189ed-ed0c-4282-a5c8-41e5b07c3f46.svg' />
-  <img width='60px' src='./assets/sass-1.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
 </p>
 <p align='center'>
-  <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237391-95fb91e3-66b7-486f-b0fb-a9786d2e8eb3.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' />
   <img width='80px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236647-b3712d46-4a0b-4cf8-b761-d53ca8c26fe2.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185237348-35a8cbda-a32b-4a64-a9e0-07e466d0a337.svg' />
