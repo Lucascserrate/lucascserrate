@@ -33,7 +33,7 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
   <img width='60px' src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
-  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg' />
+  <img width='60px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' />
 
 
 </p>
@@ -52,10 +52,6 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 <br>
 
 ## Contacto:
-<div>
-  <img width='20px' src='./assets/linkedin_icon.png' />
-  <a align="center" href='https://www.linkedin.com/in/lucascserrate/'>https://www.linkedin.com/in/lucascserrate/</a>
-</div>
 <div>
   <img width='20px' src='./assets/gmail_icon.png' />
   <a>lucascserrate@gmail.com</a>
