@@ -10,8 +10,10 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 <h3>Frontend</h3>
 <p>
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
+  <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
   <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' />
+  <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' />
   <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg' />
