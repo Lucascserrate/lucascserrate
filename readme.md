@@ -11,6 +11,7 @@ Mi nombre es Lucas Camacho, soy Full Stack Developer.<br>
 <p>
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' />
+  <img width='60px' src="../assets/native.png" />
   <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img width='60px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
   <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' />
